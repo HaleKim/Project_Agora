@@ -1,5 +1,3 @@
-import 'dart:html';
-
 void sayHello(String name) {
   //반환값이 없다. 출력만 함
   print("Hello $name nice to meet you!");
